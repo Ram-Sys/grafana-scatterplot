@@ -8,13 +8,11 @@ Hash: SHA512
   "signedByOrg": "ufz",
   "signedByOrgName": "UFZ",
   "rootUrls": [
-    "https://webapp.ufz.de/",
-    "https://webapp-stage.intranet.ufz.de/",
-    "http://localhost:3000/"
+    "https://webapp.ufz.de/hubterra/grafana/"
   ],
   "plugin": "gfz-scatterplot",
   "version": "0.1.0",
-  "time": 1626185179578,
+  "time": 1626188225100,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
@@ -31,9 +29,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqAEARMKAAYFAmDtndsACgkQfk0ManCIZuc0JgIIq3/Q72wNpHOulnXRB9XL
-7ctf74/FrqAQBT/7APcmZDe+mXvgu144/W1zYzoEmH9cDTVFAKHu42mmKbfV
-5Ej0hOsCB3+IS4fSKD1YZwsqkeTn0CsKauAo+1U0+ZH8gw+cf2HF9rx7pXCh
-vjRWZIkFi3y9OJCWlkcxH3EZhBrRmJEcbRvS
-=dNX/
+wqIEARMKAAYFAmDtqcEACgkQfk0ManCIZucodQIJARmJu54GJ+Zcyr/o6XFW
+LC2NsXqeSLIzEnUUBlzq0NXYXtayaxJtj419LhWhEkWnXSNmk1L3WppSLj5C
+Cfh/HasLAgkBiq3mJbV7wj2itW7iJ92BhmhYNMOdri2jjbi5c/G2HMRqpqn3
+HoGtfv3h3+a7c0rgmcRG60MAvJNJEoGeb7/ByRk=
+=I0tj
 -----END PGP SIGNATURE-----
