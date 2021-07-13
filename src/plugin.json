@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "Scatter Plot",
-  "id": "gfz-scatterplot",
+  "id": "ufz-scatterplot",
   "info": {
     "description": "Visualize your data in a Scatter Plot",
     "author": {
