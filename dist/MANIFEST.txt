@@ -10,9 +10,9 @@ Hash: SHA512
   "rootUrls": [
     "https://webapp.ufz.de/hubterra/grafana/"
   ],
-  "plugin": "gfz-scatterplot",
+  "plugin": "ufz-scatterplot",
   "version": "0.1.0",
-  "time": 1626188225100,
+  "time": 1626189854408,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
@@ -21,7 +21,7 @@ Hash: SHA512
     "module.js.map": "1b2e914e96108af8cc222f2e73c4b62a4cc6b60460a126d893587f7f2ab51c1a",
     "module.js": "e5f5a4c1db9089301371b35b63ef7f4993c538b93a8705269d63456a568cc7b6",
     "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
-    "plugin.json": "fe94a1969cb85ed7001c596a26d134c2d437419d8c6462c4058b3f2dddacc2c1",
+    "plugin.json": "7891766794f6cf9632ebacb322c475dd4f5888d264c4a633e07a4f869c15607e",
     "README.md": "00307851a4dc51721c0d189196852f4fe0658a63e0f561c89c71424eb334dde9"
   }
 }
@@ -29,9 +29,9 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.1
 Comment: https://openpgpjs.org
 
-wqIEARMKAAYFAmDtqcEACgkQfk0ManCIZucodQIJARmJu54GJ+Zcyr/o6XFW
-LC2NsXqeSLIzEnUUBlzq0NXYXtayaxJtj419LhWhEkWnXSNmk1L3WppSLj5C
-Cfh/HasLAgkBiq3mJbV7wj2itW7iJ92BhmhYNMOdri2jjbi5c/G2HMRqpqn3
-HoGtfv3h3+a7c0rgmcRG60MAvJNJEoGeb7/ByRk=
-=I0tj
+wqIEARMKAAYFAmDtsB4ACgkQfk0ManCIZufQYgIJASUkLKb3Bp6dVqCLsTVE
+2cUBOFeGsUFeSmuqN/dvVzaHciKt6CvWYNi1OaqO0tnte9CaYYoLudjIlZ7T
+iQbaZnhsAgkBU37iv3wqcs0tq+3g7EFiTIMqDy2QeVjfMMmmk5MiLkSoHh8+
+F5Q8194IkJ/Dj1vFPdw/2NgMPZbYPkXZGrfMlio=
+=qQki
 -----END PGP SIGNATURE-----
